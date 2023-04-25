@@ -2,3 +2,4 @@ gem_price
 build
 dist
 gem_price_pridiction_regression.egg-info
+logs
